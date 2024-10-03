@@ -20,7 +20,7 @@ The origin python code with training is in [**PRNet**.](https://github.com/Yadir
 
 # Application
 1. Face Swap, change the target face image(@"ref.jpg") to your own.
-2. Face 3D pose estimate and face keypoints in 3D.
+2. Face 3D pose estimate and face keypoints in 3D..
 
 <div align="center">
 <img src="https://github.com/taylorlu/FaceConverter/blob/master/FaceConverter/pics/show-1.jpg" height="360" width="640" >
